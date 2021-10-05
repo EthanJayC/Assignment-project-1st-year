@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: AssignmentCode, Configuration: Debug x64 ------
+1>Source.cpp
+1>C:\Users\ejcol\source\repos\AssignmentCode\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>AssignmentCode.vcxproj -> C:\Users\ejcol\source\repos\AssignmentCode\x64\Debug\AssignmentCode.exe
+1>Done building project "AssignmentCode.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
